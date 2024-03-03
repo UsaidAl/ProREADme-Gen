@@ -67,6 +67,12 @@ ${data.test}
 ## Licenses
 ${licenseSection}
 
+## Questions
+If you have any questions or want to discuss about this project, feel free to reach out to me!
+
+- GitHub: [${data.github}](https://github.com/${data.github})
+- Email: [${data.email}](mailto:${data.email})
+
 `;
 }
 
